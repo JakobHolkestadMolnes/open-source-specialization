@@ -48,10 +48,11 @@ Version control using Git is essential for collaborating with open source projec
 Understanding the contribution process of a specific project is crucial. This typically involves creating forks, branches, making changes, and submitting pull requests. Specific projects may have additional requirements, so be sure to read the contribution guidelines.
 
 ### Project-Specific Expertise
-Depending on the project, you may need specific knowledge related to its domain or technology stack. This can make contributing to some projects more challenging than others, but it's also an opportunity to learn and grow.
+Depending on the project, you may need specific knowledge related to its domain or technology stack. This can make contributing to some projects more challenging than others, but it's also an opportunity to learn and grow.  
+If a project you're interested in is too complex for you to contribute to, you can still help out in other ways. Check out [Contribute Outside Source Code](#contribute-outside-source-code) for more information.
 
-### Contribute Outside Source Code
-If a project's codebase is too complex for you to contribute to, you can still contribute in other ways. Contributing to documentation, testing or community support are all good ways to contribute to open source projects.  
+## Contribute Outside Source Code
+Open source projects need more than just code contributions. Contributing to documentation, translations, testing or community support are all great ways to help out.
 Filing a good bug report is also a very valuable contribution. In this case, make sure to follow the project's guidelines for reporting issues, and provide as much useful information as possible (e.g. steps to reproduce, screenshots, etc.).
 
 ## Communication and Collaboration
