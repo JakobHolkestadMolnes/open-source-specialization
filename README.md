@@ -29,15 +29,6 @@ If you'd like to do a *test run* of the process above, you can check out [First 
 ## How to know if you can contribute
 Contributing to an open source project requires some level of technical expertise, but it's not limited to programming skills. You can contribute in various ways, including coding, documentation, testing, design, and community support. To know if you can contribute, assess your skills and interests, and look for open source projects that welcome contributions in your areas of expertise.
 
-## Healthy Projects
-Healthy open source projects are those that are well-maintained, have an active community, and follow best practices in terms of code quality, documentation, and communication. Contributing to healthy projects is often more rewarding and impactful. 
-
-### How to find healthy projects
-- Explore open source repositories on platforms like GitHub and GitLab.
-- Look for projects with recent commits, active issue discussions, and a responsive community.
-- Check for clear contribution guidelines and a code of conduct in the project's repository.
-- Check out [up-for-grabs.net](https://up-for-grabs.net/) for a list of projects currently seeking contributions.
-
 ## Required knowledge
 To contribute effectively to open source projects, you may need the following knowledge and skills:
 
@@ -54,6 +45,16 @@ If a project you're interested in is too complex for you to contribute to, you c
 ## Contribute Outside Source Code
 Open source projects need more than just code contributions. Contributing to documentation, translations, testing or community support are all great ways to help out.
 Filing a good bug report is also a very valuable contribution. In this case, make sure to follow the project's guidelines for reporting issues, and provide as much useful information as possible (e.g. steps to reproduce, screenshots, etc.).
+
+## Healthy Projects
+Healthy open source projects are those that are well-maintained, have an active community, and follow best practices in terms of code quality, documentation, and communication. Contributing to healthy projects is often more rewarding and impactful. 
+
+### How to find healthy projects
+- Explore open source repositories on platforms like GitHub and GitLab.
+- Look for projects with recent commits, active issue discussions, and a responsive community.
+- Check for clear contribution guidelines and a code of conduct in the project's repository.
+- Check out [up-for-grabs.net](https://up-for-grabs.net/) for a list of projects currently seeking contributions.
+
 
 ## Communication and Collaboration
 Effective communication and collaboration are vital in open source projects. Use communication channels preffered by the specific project to interact with the community. These could be issiue trackers, mailing lists or chat platforms. Be respectful and responsive in your interactions.
