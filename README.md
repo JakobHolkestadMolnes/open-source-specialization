@@ -69,3 +69,7 @@ Understand the licensing terms of the open source project you're contributing to
 - [Open Source Initiative](https://opensource.org/)
 - [Choosing an Open Source License](https://choosealicense.com/) - A resource to help you select the right license for your open source project.
 - [First Timers Only](https://www.firsttimersonly.com/) - More resources
+
+## Projects we have contributed to
+As part of this module, we found some projects and made some contributions to them. Feel free to check them out and perhaps contribute to them as well!  
+- [Diary Vault](https://github.com/SankethBK/diaryvault) - Quite simple and small project, but it was a good way to get started with open source. Application is implemented in Flutter. I contributed by adding translations, as well as providing a bug fix and updating documentation.
