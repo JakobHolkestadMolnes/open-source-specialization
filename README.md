@@ -73,3 +73,4 @@ Understand the licensing terms of the open source project you're contributing to
 ## Projects we have contributed to
 As part of this module, we found some projects and made some contributions to them. Feel free to check them out and perhaps contribute to them as well!  
 - [Diary Vault](https://github.com/SankethBK/diaryvault) - Quite simple and small project, but it was a good way to get started with open source. Application is implemented in Flutter. I contributed by adding translations, as well as providing a bug fix and updating documentation.
+- [Computer Science](https://github.com/shhossain/computer_science) - A project to help people get knowledge about computer science. It is an easy way to start contributing by adding translation and that way getting used to git. Contributed by translating some parts.
